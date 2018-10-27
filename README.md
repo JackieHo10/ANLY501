@@ -1,2 +1,2 @@
-# ANLY501
-Data Analytics
+# ANLY_501
+Class Project for Data Analytics
